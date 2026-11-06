@@ -12,13 +12,11 @@ The diagram below shows how data is structured in the Parch & Posey database.
 ## Progress Tracker
 
 * [x] Basic SQL
-* [x] Explore More
-* [x] Advance Beyond The Basics
 * [x] SQL Joins
-* [x] SQL Aggregations **-> In Progress**
+* [ ] SQL Aggregations (In Progress)
 * [ ] SQL Subqueries & Temporary Tables
 * [ ] SQL Data Cleaning
 * [ ] [Advanced] SQL Window Functions
 * [ ] [Advanced] SQL Advanced JOINs & Performance Tuning
 * [ ] Congratulations!
-* [ ] What's Next
+* [ ] What's Next for NanoDegree
