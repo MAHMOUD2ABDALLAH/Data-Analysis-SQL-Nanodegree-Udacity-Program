@@ -40,12 +40,3 @@ This branch focuses on summarizing and grouping data using SQL aggregation funct
 
 ### Query Structure Best Practices
 When writing aggregation queries, include only non-aggregated columns in the `GROUP BY` clause, and use `WHERE` for row-level filtering and `HAVING` for group-level filtering. The standard structure is:
-
-```sql
-SELECT column, AGG(column)
-FROM table
-JOIN other_table ON table.id = other_table.id
-WHERE row_condition
-GROUP BY column
-HAVING AGG(column) condition
-ORDER BY AGG(column) DESC;
