@@ -13,8 +13,8 @@ The diagram below shows how data is structured in the Parch & Posey database.
 
 * [x] Basic SQL
 * [x] SQL Joins
-* [ ] SQL Aggregations (In Progress)
-* [ ] SQL Subqueries & Temporary Tables
+* [x] SQL Aggregations 
+* [ ] SQL Subqueries & Temporary Tables **IN PROGRESS**
 * [ ] SQL Data Cleaning
 * [ ] [Advanced] SQL Window Functions
 * [ ] [Advanced] SQL Advanced JOINs & Performance Tuning
